@@ -13,3 +13,6 @@ git add (index.html)
 añade un solo  archivo
 git add -A
 añade todos loa  archivos
+git log
+resumen  de  cambios
+otro cambio
