@@ -16,3 +16,5 @@ añade todos loa  archivos
 git log
 resumen  de  cambios
 otro cambio
+ git commit -m "comit"
+añade un cambio
